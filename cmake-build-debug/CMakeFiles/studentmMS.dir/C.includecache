@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/C/studentmMS/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+afxres.h
+-
+struct.h
+E:/C/studentmMS/struct.h
+
+E:/C/studentmMS/struct.h
+
